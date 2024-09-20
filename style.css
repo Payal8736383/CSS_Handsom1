@@ -1,0 +1,58 @@
+/* *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} */
+h1{
+    color: red;
+}
+
+h2{
+    color: brown;
+    font-style:oblique;
+}
+ol li{
+    color: rgb(56, 21, 56);
+    line-height: 40px;
+    font-weight: bold;
+    font-size:large;
+}
+#s1{
+    
+    text-decoration: line-through;
+}
+#s2{
+    background-color: yellow;
+
+}
+#s3{
+    text-decoration: underline;
+    font-style: italic;
+    
+}
+h2{
+    font-style: italic;
+}
+ul li{
+    letter-spacing: 7px;
+    font-weight: bold;
+    line-height: 20px;
+    color:rgb(131, 28, 71);
+}
+#s4{
+    font-weight: bold;
+    background-color: yellow;
+}
+p{
+    line-height: 20px;
+    color:rgb(95, 30, 68);
+    font-weight: 550;
+}
+a{
+    font-style: italic;
+    font-weight: 600;
+    background-color: yellow;
+    font-weight: bold;
+    font-size: large;
+    text-decoration: none;
+}
